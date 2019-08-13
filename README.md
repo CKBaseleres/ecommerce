@@ -1,7 +1,7 @@
 # eCommerce
 
 ### Demo
-[DEMO](https://ecommerce-live.herokuapp.com)
+[ecommerce_demo](https://ecommerce-live.herokuapp.com)
 
 ### Overview
 This app can:
