@@ -2,7 +2,7 @@
   width: 22vw;
   display: flex;
   flex-direction: column;
-  height: 350px;
+  height: 400px;
   align-items: center;
   position: relative;
 
@@ -48,6 +48,7 @@
 
     .price {
       width: 10%;
+      text-align: right;
       padding-right: 50px;
     }
   }
