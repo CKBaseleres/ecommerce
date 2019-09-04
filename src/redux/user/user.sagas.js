@@ -6,8 +6,7 @@ import {
   auth,
   googleProvider,
   createUserProfileDocument,
-  getCurrentUser,
-  createUserWithEmailAndPassword
+  getCurrentUser
 } from '../../firebase/firebase.utils';
 
 import {
