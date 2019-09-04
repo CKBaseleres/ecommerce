@@ -36,6 +36,7 @@ const StripeCheckoutButton = ({ price }) => {
       image={Logo}
       description={`Your total is ₱${price}`}
       amount={priceForStripe}
+      currency='php'
       panelLabel='Pay Now'
       token={onToken}
       stripeKey={publishableKey}
