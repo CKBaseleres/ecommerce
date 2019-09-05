@@ -10,10 +10,13 @@ This app can:
 * add items to cart
 * checkout with stripe api
 
-### Dependencies
+### Dependecies
 * Node.js
 * React/Redux
+* Redux Saga
 * Firebase
+* Stripe
+* Styled-Components
 
 ### Installation
 1. clone repo locally
